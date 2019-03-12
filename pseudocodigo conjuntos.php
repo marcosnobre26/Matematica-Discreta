@@ -14,7 +14,7 @@ var_dump($array);
 Inicio
 	array = Array para armazenar a união dos conjuntos
 		A = itens do conjunto A # A tem r = linhas , n = colunas
-		B = itens do conjunto B # B tem n = linhas , m = colunas
+		B = itens do conjunto B # B tem n = linhas , m = coluna
 	array=A+B #array armazena a união do conjunto
 	saida array
 Fim
